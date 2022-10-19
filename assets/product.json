@@ -1,0 +1,75 @@
+[
+    {
+      "productId":1,
+      "productName":"Vanilla Cake",
+      "productType":"Eggless Cake",
+      "productPrice":500,
+      "productRating":3.5,
+      "productImage":"https://simpleveganblog.com/wp-content/uploads/2022/02/vegan-vanilla-cake-4.jpg"
+    },
+    {
+      "productId":2,
+      "productName":"Rasmallai Cake",
+      "productType":"Eggless Cake",
+      "productPrice":600,
+      "productRating":5,
+      "productImage":"https://i.ytimg.com/vi/-4i_D8jCBJg/maxresdefault.jpg"
+    },
+    {
+      "productId":3,
+      "productName":"Blueberry Cake",
+      "productType":"Egg Cake",
+      "productPrice":800,
+      "productRating":3,
+      "productImage":"https://www.thecakeshoppe.co.in/wp-content/uploads/2019/01/a18hb0gnca0iaikcpybj.jpeg"
+    },
+    {
+      "productId":4,
+      "productName":"ChocoChip Cake",
+      "productType":"Egg Cake",
+      "productPrice":850,
+      "productRating":4.5,
+      "productImage":"https://d3cif2hu95s88v.cloudfront.net/live-site-2016/product-image/06thJan/Choco-chip-cake-250x250-600x600.jpg"
+    },
+    {
+      "productId":5,
+      "productName":"Choco-Truffle",
+      "productType":"Eggless Cake",
+      "productPrice":900,
+      "productRating":4,
+      "productImage":"https://wishmedaily.com/wp-content/uploads/2020/12/dutch-cake.jpg"
+    },
+    {
+      "productId":6,
+      "productName":"Choco-Truffle",
+      "productType":"Egg Cake",
+      "productPrice":950,
+      "productRating":4.8,
+      "productImage":"https://cakecarnival.com/wp-content/uploads/2021/05/Special-Choco-TRUFFLE.jpg"
+    },
+    {
+      "productId":7,
+      "productName":"Fruit Fusion Cake",
+      "productType":"Egg Cake",
+      "productPrice":950,
+      "productRating":5,
+      "productImage":"https://www.fnp.com/images/pr/x/v20181218154030/creamy-vanilla-fruit-cake-half-kg_1.jpg"
+    },
+    {
+      "productId":8,
+      "productName":"Mango Cake",
+      "productType":"Egg Cake",
+      "productPrice":750,
+      "productRating":3.2,
+      "productImage":"https://cdn.giftstoindia24x7.com/ASP_Img/IMG2000/GTI435043.jpg"
+    },
+    {
+      "productId":9,
+      "productName":"Pineapple Cake",
+      "productType":"Egg Cake",
+      "productPrice":750,
+      "productRating":4.3,
+      "productImage":"https://media.bakingo.com/sq-pineapple-cake0022pifr-AA_0.jpg"
+    }
+
+  ]
